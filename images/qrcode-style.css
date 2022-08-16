@@ -15,7 +15,7 @@
   position: relative;
   width: 400px;
   height: 700px;
-  margin-left: 200px;
+  margin-left: 100px;
   margin-right: 200px;
   border-radius: 40px;
   padding-left: 60px;
@@ -25,7 +25,7 @@
 
 .QRparent {
   background-color: hsl(212, 45%, 89%);
-  padding-left: 200px;
+  padding-left: 100px;
   padding-top: 200px;
   padding-bottom: 200px;
 }
